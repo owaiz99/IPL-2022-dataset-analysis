@@ -1,4 +1,4 @@
-# IPL-2022-dataset-analysis
+# IPL-datasets-analysis
 The Indian Premier League (IPL) T20 cricket tournament is one of the most popular cricket leagues in the world. 
 This repository contains an extensive Exploratory Data Analysis (EDA) of ball-by-ball data from multiple seasons of the IPL. 
 The EDA provides valuable insights into the performance of teams and players by analyzing various aspects of the tournament.
